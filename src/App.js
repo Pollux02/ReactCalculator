@@ -8,7 +8,7 @@ import Logo from './componentes/Logo';
 
 //Hook
 import {useState} from 'react';
-import {evaluate, prodDependencies} from 'mathjs';
+import {evaluate} from 'mathjs';
 
 function App() {
 
